@@ -1,0 +1,14 @@
+frutas-y-verduras
+carnes-aves-y-pescados
+congelados
+lacteos-y-huevos
+quesos-y-fiambres
+abarrotes
+bebidas
+panaderia-pasteleria-y-comidas
+cuidado-del-bebe
+cuidado-personal
+jugueteria
+limpieza
+mascotas
+libreria
